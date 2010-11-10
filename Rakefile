@@ -10,12 +10,12 @@ begin
 	require 'jeweler'
 	Jeweler::Tasks.new do |gem|
 		gem.name        = "gd2-ffij"
-		gem.version     = "0.0.2"
+		gem.version     = "0.0.3"
 		gem.summary     = "gd2-ffij is a refactoring of the Ruby/GD2 library implemented with FFI"
 		gem.description = "gd2-ffij is a refactoring of the Ruby/GD2 library implemented with FFI"
-		gem.email       = "dark.panda@gmail.com"
-		gem.homepage    = "http://github.com/dark-panda/gd2-ffij"
-		gem.authors =    [ "J Smith" ]
+		gem.email       = "amardaxini@gmail.com"
+		gem.homepage    = "http://github.com/amardaxini/gd2-ffij"
+		gem.authors =    [ "Amar Daxini" ]
 		# gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
 	end
 	Jeweler::GemcutterTasks.new
